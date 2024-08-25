@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm fam ashraf</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **React Redux and Next.js**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **famashraf9@gmail.com**
 
